@@ -1,0 +1,13 @@
+; Name = Record 1
+A,B,C
+1,2,3
+2,3,4
+3,4,5
+
+; Name = Record 2
+; this is some extra data
+A,B,C
+1,1,1
+2, ,2
+; this is a comment in the middle of the data
+3,3,3
